@@ -56,61 +56,7 @@
     }
   ],
   "Categories": [
-    {
-      "Id": "4f7378cd-7c40-4a99-9617-94681300c828",
-      "Name": "Get Started",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "ClickLearn",
-      "SubCategories": [
-             {
-          "Id": "46589138-0dde-4ea5-b9a1-313481a8eb06",
-          "Name": "Microsoft Teams",
-          "Image": "categories/teams.png",
-          "TechnologyId": "c209f64e-0291-437a-9615-17747eab50d0",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
-          "Name": "Quick Book",
-          "Image": "categories/QuickBook.png",
-          "TechnologyId": "054bac6f-2670-4cd1-8b38-087ff82754a2",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "f9b14990-420a-4678-87a8-8428928186c6",
-          "Name": "Sap4Hana",
-          "Image": "categories/Sap4Hana.png",
-          "TechnologyId": "3edeb182-3828-4a83-aef9-928a2693e288",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "85c785c2-c873-4483-9728-64a367fee3f1",
-          "Name": "PowerApps",
-          "Image": "categories/PowerApps.png",
-          "TechnologyId": "",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "f05d3e34-3299-4776-a505-86f94b794194",
-          "Name": "EOI",
-          "Image": "categories/EOI.png",
-          "TechnologyId": "",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
-        }
-      ]
-    },
+    
      {
       "Id": "cf28bc20-ee23-4453-954e-43cc43af67b6",
       "Name": "Web Recordings",
@@ -223,6 +169,7 @@
     "https://content.development.clicklearn.dk",
     "https://login.microsoftonline.com",
     "https://support.office.com",
-    "https://docs.microsoft.com"
+    "https://docs.microsoft.com",
+    "https://ux12.content.in.clicklearn.in"
   ]
 }
