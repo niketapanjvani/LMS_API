@@ -6,7 +6,7 @@
     "Manifest": "v4",
     "ManifestMinWebPart": "4.0.0",
     "CurrentWebPart": "4.1.3",
-    "RepoURL": "https://github.com/learningpathways/ClRecordings"
+    "RepoURL": "https://github.com/learningpathways/LMS_API"
   },
   "ContentPacks": [],
   "AssetOrigins": [
