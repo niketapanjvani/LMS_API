@@ -58,23 +58,13 @@
   "Categories": [
     
      {
-      "Id": "cf28bc20-ee23-4453-954e-43cc43af67b6",
-      "Name": "IFSAurena",
+      "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+      "Name": "IFSSec",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Microsoft",
-      "SubCategories": [
-        {
-          "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-          "Name": "IFSSec",
-          "Image": "categories/Recording.png",
-          "TechnologyId": "",
-          "SubjectId": null,
-          "Source": "Microsoft",
-          "SubCategories": []
-        }
-      ]
+     
     }
   ],
   "Audiences": [
