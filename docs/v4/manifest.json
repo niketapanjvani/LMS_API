@@ -1,0 +1,22 @@
+{
+  "Telemetry": {
+    "AppInsightKey": "089e14f6-1341-44b8-9135-71b3e326e914"
+  },
+  "Version": {
+    "Manifest": "v4",
+    "ManifestMinWebPart": "4.0.0",
+    "CurrentWebPart": "4.1.3",
+    "RepoURL": "https://github.com/learningpathways/ClRecordings"
+  },
+  "ContentPacks": [],
+  "AssetOrigins": [
+    "https://github.com",
+    "https://content.development.clicklearn.dk",
+    "https://login.microsoftonline.com",
+    "https://support.office.com",
+    "https://docs.microsoft.com"
+  ],
+  "Languages": [
+    "en-US"
+  ]
+}
